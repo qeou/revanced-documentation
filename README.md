@@ -2,6 +2,10 @@
 
 Instructions to build and install ReVanced.
 
+# Manager
+
+Revanced Manager is now in public Alpha, so it is recommended that you try to use that [here instead](https://github.com/revanced/revanced-manager/releases/tag/v0.0.14). However, if you'd prefer to use the command-line application, or the manager doesn't work for you, feel free to continue.
+
 # Wiki
 
 - [Prerequisites](https://github.com/revanced/revanced-documentation/wiki/Prerequisites)
